@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>LinkHub • yourName</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <main class="card" id="card">
+    <header class="profile">
+      <div class="avatar" id="avatar">
+        <!-- Avatar injected by JS -->
+      </div>
+      <div class="meta">
+        <h1 id="username">yourName</h1>
+        <p id="bio" class="bio">Deskripsi singkat kamu — ubah di config/profile.json</p>
+      </div>
+    </header>
+
+    <section id="links" class="links" aria-live="polite">
+      <!-- Buttons injected by JS -->
+    </section>
+
+    <footer class="foot">
+      <div class="left">© <span id="year"></span> <span id="brand">YourBrand</span></div>
+      <div class="right">
+        <button id="copyBtn" class="icon-btn" title="Salin tautan utama">🔗</button>
+        <button id="themeToggle" class="icon-btn" title="Mode gelap/terang">🌓</button>
+      </div>
+    </footer>
+  </main>
+
+  <script src="js/main.js" defer></script>
+</body>
+</html>

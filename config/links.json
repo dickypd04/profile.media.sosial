@@ -1,0 +1,29 @@
+{
+  "links": [
+    {
+      "label": "Discord • DD PROJECT",
+      "url": "https://discord.gg/xxxxxx",
+      "subtitle": "Join server untuk support & order"
+    },
+    {
+      "label": "Dukung Creator • Sociabuzz",
+      "url": "https://sociabuzz.com/dicky04",
+      "subtitle": "Support dan donasi"
+    },
+    {
+      "label": "YouTube • Dicky Widyanto",
+      "url": "https://youtube.com/@DickyWidyanto",
+      "subtitle": "Tutorial & konten"
+    },
+    {
+      "label": "TikTok • @pace_dicky",
+      "url": "https://tiktok.com/@pace_dicky",
+      "subtitle": "Shorts & clips"
+    },
+    {
+      "label": "Instagram • @ic.pacedyk",
+      "url": "https://instagram.com/ic.pacedyk",
+      "subtitle": "Foto & update"
+    }
+  ]
+}
